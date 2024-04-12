@@ -518,6 +518,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000180630/index.m3u
 #EXTINF:-1 tvg-id="I18" tvg-name="iHot-爱院线" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱院线.png" group-title="地方特色",iHot-爱院线
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 
+
 #广东/18个频道
 #EXTINF:-1 tvg-id="GD01" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="地方特色",广东珠江
 http://iptv.hiper25.com:42487/gdzhujiangHD/video.m3u8?token=1710447330
