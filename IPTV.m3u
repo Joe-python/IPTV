@@ -616,11 +616,11 @@ http://live.cooltv.top/tv/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="xg04" tvg-logo="https://upload.112114.xyz/logo/TVB5.png" tvg-name="TVB无线财经"  group-title="港澳台",TVB无线财经
 http://live.cooltv.top/tv/tvb.php?id=2&hq
 #EXTINF:-1 tvg-id="xg05" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" tvg-name="爱尔达体育Ⅰ台"  group-title="港澳台",爱尔达体育Ⅰ台
-http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+https://ktpremium.com:443/K3939/6757/879250
 #EXTINF:-1 tvg-id="xg06" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png" tvg-name="爱尔达体育Ⅱ台"  group-title="港澳台",爱尔达体育Ⅱ台
-http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+https://ktpremium.com:443/K3939/6757/879251
 #EXTINF:-1 tvg-id="xg07" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png"  group-title="港澳台",爱尔达体育Ⅲ台
-http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=482572
+https://ktpremium.com:443/K3939/6757/879252
 #EXTINF:-1 tvg-id="xg08" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png"  group-title="港澳台",中天新闻
 http://ali.hlspull.yximgs.com/live/huanqiuhklivepjjtvvjjjyjuujjfvbscvjdjtwjfsjjsjjjcvuyjemjejtxw.flv
 #EXTINF:-1 tvg-id="xg09" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC6.png"  group-title="港澳台",东森新闻
