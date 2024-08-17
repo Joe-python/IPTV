@@ -722,4 +722,4 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270005/1.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕精彩足球" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="移动咪咕",咪咕直播-44
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270002/1.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="移动咪咕",咪咕直播-45
-http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
+http://cdn9.1678520.xyz/xsj2.1.php?id=now-sports-premier-league1
